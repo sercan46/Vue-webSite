@@ -406,7 +406,7 @@
     <section id="product" class="portfolio">
       <div class="container">
         <div class="section-title">
-          <h2>Kategorilerimiz</h2>
+          <h2>ÜRÜNLERİMİZ</h2>
           <p>
             Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
             aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
@@ -587,8 +587,6 @@
                   marginwidth="0"
                   src="https://maps.google.com/maps?width=100%25&amp;height=290&amp;hl=en&amp;q=%C3%87a%C4%9Flayan%20%C4%B0stanbul+(%C4%B0s%20Adresi)&amp;t=k&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
                 ></iframe
-                ><a href="https://www.maps.ie/route-planner.htm"
-                  >İş yeri adresi</a
                 >
               </div>
             </div>
