@@ -785,7 +785,7 @@ export default {
       Email.send({
         Host: "smtp.gmail.com",
         Username: "yazilimalgoritmasi@gmail.com",
-        Password: "2072048613S.s",
+        Password: "*******",
         To: `${mail.mail},yazilimalgoritmasi@gmail.com`,
         From: "yazilimalgoritmasi@gmail.com",
         Subject: `${mail.subject}`,
